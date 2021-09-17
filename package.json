@@ -1,0 +1,23 @@
+{
+  "name": "batch-ffmpeg-processor",
+  "version": "1.0.0",
+  "description": "Converts files using ffmpeg within a folder at once",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bwu1324",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwu1324/batch-ffmpeg-audio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bwu1324/batch-ffmpeg-audio/issues"
+  },
+  "homepage": "https://github.com/bwu1324/batch-ffmpeg-audio#readme"
+}

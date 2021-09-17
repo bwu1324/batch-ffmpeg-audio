@@ -1,0 +1,11 @@
+{
+	"inputPath": "",
+	"outputPath": "",
+	"outputExt": ".mp3",
+	"args": "",
+	"bitrate": "128k",
+	"codec": "libmp3lame",
+	"quality": 0,
+	"maxParallel": 5,
+	"test": false
+}
